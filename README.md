@@ -24,7 +24,9 @@ Each `Book` entity has the following fields:
 
 The data is retrieved from the `local database` using `SQLite`.
 
+<p float="left">
 <img src="/demos/demo1.PNG">
-<img src="/demos/demo1.PNG">
-<img src="/demos/demo1.PNG">
-<img src="/demos/demo1.PNG">
+<img src="/demos/demo2.PNG">
+<img src="/demos/demo3.PNG">
+<img src="/demos/demo4.PNG">
+</p>
